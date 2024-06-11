@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GusBraud
 - 👀 I’m interested in contemporary music, digital humanities, endurance sports and spicy food.
-- 🌱 I’m currently learning MEI and Cidoc-CRM.
 - 📫 How to reach me : augustin.braud🐬cnrs.fr
   
 <!---
